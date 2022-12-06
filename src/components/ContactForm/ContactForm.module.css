@@ -1,0 +1,40 @@
+.form{
+  text-align: left;
+  background-color: antiquewhite;
+  padding: 30px 20px 20px;
+  border-radius: 5px;
+}
+.label {
+      display: flex;
+        justify-content: space-between;
+  font-weight: 700;
+}
+
+.label + .label {
+  margin-top: 20px;
+}
+
+.input {
+  width: 65%;
+  border: 1px solid rgb(230, 206, 175);
+  border-radius: 5px;
+  background: white;
+  padding: 5px 5px;
+}
+
+.addBtn {
+  background-color: rgb(23, 61, 0);
+  border: none;
+  border-radius: 5px;
+  padding: 8px 10px;
+  margin-top: 20px;
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.addBtn:hover {
+  background-color: rgb(235, 175, 11);
+  color: black;
+  box-shadow: 0 5px 10px 2px rgb(34 60 80 / 20%);
+}

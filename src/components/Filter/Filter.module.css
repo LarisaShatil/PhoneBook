@@ -1,0 +1,15 @@
+.label {
+  display: block;
+  font-weight: 700;
+  margin: 20px auto;
+}
+
+.input {
+margin-left: 5px;
+  width: 65%;
+    padding: 5px 5px;
+  border: 1px solid rgb(230, 206, 175);
+    border-radius: 5px;
+    background: white;
+
+}

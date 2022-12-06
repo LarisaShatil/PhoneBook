@@ -1,0 +1,12 @@
+.App {
+  width: 500px;
+  overflow: hidden;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.title{
+  text-transform: uppercase ;
+  color: rgb(134, 5, 5);
+}
